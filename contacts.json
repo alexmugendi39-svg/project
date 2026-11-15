@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Atieno",
+    "phone": "075435678934",
+    "skill": "designer",
+    "note": "from isiolo"
+  },
+  {
+    "name": "Mwangi",
+    "phone": "0112345876",
+    "skill": "plumber",
+    "note": "from Embu"
+  },
+  {
+    "name": "Kinoti",
+    "phone": "074356783",
+    "skill": "farming",
+    "note": "Igoji"
+  }
+]
